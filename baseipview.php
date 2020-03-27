@@ -72,6 +72,6 @@ function ip_info($ip = NULL, $purpose = "location", $deep_detect = TRUE) {
 
                    if($ip2["country_code"]!='TR'){ ?>
 
-                <span class="phone"><a href=""https://cenderhotel.reservehotel.net/index.cfm?avlparam=1"><?= lv('book_now') ?></b></a></span>
-                <span class="phone"><a href="https://cenderhotel.reservepackage.com/"><?= lv('hotel_flight') ?></b></a></span>
+                <span class="phone"><a href="#"><?= lv('book_now') ?></b></a></span>
+                <span class="phone"><a href="#"><?= lv('flight') ?></b></a></span>
                      <?php }?>
