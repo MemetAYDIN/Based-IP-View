@@ -1,0 +1,99 @@
+<-----------------------------------CSS--------------------------------->                                                                                                                       @media (max-width: 767px){
+img#mobileLogo {
+    width: 118px;
+    margin-top: 5px;
+}
+}
+
+//Div alıntadki tüm div lerei erişir
+
+.contentBottomCenter>div:not(first-child)// ilk element değilse
+.contentBottomCenter>div:not(last-child)//
+last element değilse
+.contentBottomCenter>div:not(last-child)//
+
+
+.contentBottomCenter>div {
+position: relative !important;
+    width: 185% !important;
+}
+
+Slider
+https://codepen.io/digistate/pen/aEqzBB
+
+li.menu-item.menu-item-type-custom.menu-item-object-custom.menu-item-1167 a {
+    background-color: red;
+    padding: 5px !important;
+    border-radius: 10px;
+}
+li.menu-item.menu-item-type-custom.menu-item-object-custom.menu-item-1506 a {
+    background-color: darkgreen;
+    border-radius: 5px;
+    padding: 5px!important;
+}
+
+//Buttona farklı renk verme
+linear-gradient(to right, #1a1a18, #b92121) !important
+
+
+-----------
+.col-md-3.col-sm-6.col-xs-12 {
+    position: relative;
+    left: 150px;
+}
+//Syfa bazlı erişim
+body[p_id="page_5406"] .reservationForm { display:none}
+<-----------------------------------CSS--------------------------------->  
+
+<-----------------------------------------Templates-----------------------> 
+https://dash.cloudflare.com/login,
+user:seo@booklogic.net
+pass:bl123+$!
+ 
+{
+    "name": "Booklogic 2",
+    "host": "ftp.booklogic.biz",
+    "protocol": "ftp",
+    "port": 21,
+    "username": "usman@booklogic.biz",
+    "remotePath": "/",
+    "uploadOnSave": true,
+    "password": "b@@kL0G1Cweb8585"
+},
+ 
+CMS
+{
+    "name": "Booklogic",
+    "host": "co2games.com",
+    "protocol": "sftp",
+    "port": 2223,
+    "username": "booklogic",
+    "remotePath": "/home/booklogic/domains/cms.booklogic.net/public_html",
+    "uploadOnSave": true,
+    "password": "D00cKolick@@"
+}
+
+https://cdnjs.com/libraries/bootstrap-datepicker
+
+SSLEngine on
+SSLCertificateFile /home/booklogic/cms_certs/certs.crt
+SSLCertificateKeyFile /home/booklogic/cms_certs/ssl.key
+SSLProtocol all -SSLv2 -SSLv3 -TLSv1 -TLSv1.1
+<-----------------------------------------Templates----------------------->
+<--------------------------Virtual Machine------------------------>
+https://gist.github.com/gopalindians/94c2c8617028cfe7a5788f760e036fd2
+
+FU512-2DG1H-M85QZ-U7Z5T-PY8ZD
+CU3MA-2LG1N-48EGQ-9GNGZ-QG0UD
+GV7N2-DQZ00-4897Y-27ZNX-NV0TD
+YZ718-4REEQ-08DHQ-JNYQC-ZQRD0
+GZ3N0-6CX0L-H80UP-FPM59-NKAD4
+YY31H-6EYEJ-480VZ-VXXZC-QF2E0
+ZG51K-25FE1-H81ZP-95XGT-WV2C0
+VG30H-2AX11-H88FQ-CQXGZ-M6AY4
+CU7J2-4KG8J-489TY-X6XGX-MAUX2
+FY780-64E90-0845Z-1DWQ9-XPRC0
+UF312-07W82-H89XZ-7FPGE-XUH80
+AA3DH-0PYD1-0803P-X4Z7V-PGHR4
+<--------------------------Virtual Machine------------------------>
+<--------------------------
